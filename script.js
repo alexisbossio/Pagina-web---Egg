@@ -1,5 +1,5 @@
 function showAlert() {
-    alert("Alerta de javascript")
+    alert("Haz hecho click en mi")
 }
 const form = document.getElementById("myForm")
 
